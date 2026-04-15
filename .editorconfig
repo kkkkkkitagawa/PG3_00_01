@@ -1,6 +1,2 @@
-#include <iostream>
-
-int main()
-{
-    std::cout << "群星の響\n";
-}
+[*.{cpp,h}]
+charset = utf-8
