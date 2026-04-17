@@ -1,11 +1,11 @@
 // PG3_00_00_test.cpp : このファイルには 'main' 関数が含まれています。プログラム実行の開始と終了がそこで行われます。
 //
 
-#include <iostream>
-
+#include <cstdio>
 int main()
 {
-    std::cout << "群星の旅へ\n";
+    printf("群星の旅へ\n");
+    return 0;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
